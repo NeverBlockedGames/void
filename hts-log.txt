@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 02 May 2024 16:02:36 at https://www.classroom.it.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.classroom.it.com -%L gethacked -O1 "C:\My Web Sites\sigma" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:02:36	Error: 	Could not include URL list: gethacked
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/"https://www.stat-counter.org/count/fd7q"></script><br> (from https://www.classroom.it.com/)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/'https://www.acadoo.de/'>Bachelorarbeit (from https://www.classroom.it.com/)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/'https://www.whomania.com/ctr?id=4fd18f3674d741b7bc66c185250104111cd87634'></script>%22 (from https://www.classroom.it.com/)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/"https://www.youtube.com/embed/SYAqYIDEtR8?autoplay=1&mute=0%22 (from https://www.classroom.it.com/)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/home/"https://docs.google.com/document/export?format=docx&id=1-nH52JWQNLSe3nzBTj_4cBGc_LWqiD_mtQdD6SLzWic%22; (from https://www.classroom.it.com/home/tos)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/home/"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> (from https://www.classroom.it.com/home/this-site-knows-everything)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/home/"https://www.soraappp.com"; (from https://www.classroom.it.com/home/anonymous-mode)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/"https://wakawaka.pakasak.com"; (from https://www.classroom.it.com/fortnite)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/"https://art.playasian.com/embed?search=SEARCH_QUERY_HERE%22 (from https://www.classroom.it.com/google)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/"https://182exe.xyz/jam" (from https://www.classroom.it.com/u-will-go-bye-bye-if-u-click)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/duck-lifes/"https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/vue-tables-2@1b8b48a642e410d2e3db5f04deb7cf3fec30c513/lib/dl1.xml%22; (from https://www.classroom.it.com/duck-lifes/duck-life-1)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/duck-lifes/"https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/awesome-aws@f5922fae305916c82f1c74e11fecdcc097755476/scripts/dl2.xml%22; (from https://www.classroom.it.com/duck-lifes/duck-life-2-world-champion)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/duck-lifes/"https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/gertdoro/learning-Python-3@c4e9b8674140aaedb18b0546400d6f6ac5b34949/scripts/dl3.xml%22; (from https://www.classroom.it.com/duck-lifes/duck-life-3-evolution)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/duck-lifes/"https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fduck-life-4.xml%22; (from https://www.classroom.it.com/duck-lifes/duck-life-4)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/"https://sdk.vercel.ai/"; (from https://www.classroom.it.com/chatgpt)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/agar-io/"https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/bobydob/JSEngine@ba92ad3b1a5df6a4dae03987b78c5474e2c0d185/build/aio/agio.xml&container=ig%22 (from https://www.classroom.it.com/agar-io/agar-io)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/agar-io/"" (from https://www.classroom.it.com/agar-io/agar-io-full-screen)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/agar-io/"https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/bobydob/JSEngine@ba92ad3b1a5df6a4dae03987b78c5474e2c0d185/build/aio/agio.xml&container=ig%22; (from https://www.classroom.it.com/agar-io/agar-io-full-screen)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/"https://www.youtube.com/iframe_api"></script> (from https://www.classroom.it.com/dont-click-in-class)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/"https://codepen.io/Me-Mee/embed/VwgyZag?height=400&theme-id=dark&default-tab=result%22 (from https://www.classroom.it.com/redbad)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/'https://codepen.io/Me-Mee/pen/VwgyZag'>here</a> (from https://www.classroom.it.com/redbad)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/"https://dotsandboxes.org" (from https://www.classroom.it.com/dots-and-boxes)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/" (from https://www.classroom.it.com/space-bar-clicker-hacks)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/"https://quickdraw.withgoogle.com"; (from https://www.classroom.it.com/quick-draw)
+16:03:48	Error: 	"Not Found" (404) at link https://www.classroom.it.com/"https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/element@1dd0b99d2004b84795f2745a5eb3468deb1c38a4/ts2.xml%22; (from https://www.classroom.it.com/super-hot-fixed)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 12 seconds : 198 links scanned, 172 files written (21807315 bytes overall) [4095212 bytes received at 56877 bytes/sec], 24629110 bytes transferred using HTTP compression in 196 files, ratio 13%
+(26 errors, 0 warnings, 0 messages)
